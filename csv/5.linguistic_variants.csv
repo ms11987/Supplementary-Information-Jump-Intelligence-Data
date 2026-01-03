@@ -1,0 +1,73 @@
+variant,anchor_type,text
+Original,POS_TM,transition metal cyanide coordination in Prussian Blue
+Original,POS_TM,inner-sphere metal–cyanide complex formation
+Original,POS_TM,Fe–CN–M bridging within Prussian Blue framework
+Original,POS_TM,d-orbital participation in metal-cyanide bonding
+Original,NEG_TM,alkali metals do not form cyanide coordination in Prussian Blue
+Original,NEG_TM,alkaline earth metals lack d-orbital coordination
+Original,NEG_TM,outer-sphere association only without coordination
+Permuted,POS_TM,(word-shuffled version of Original - seed dependent)
+Permuted,NEG_TM,(word-shuffled version of Original - seed dependent)
+Keywords_Only,POS_TM,transition metal cyanide coordination
+Keywords_Only,POS_TM,metal cyanide complex
+Keywords_Only,POS_TM,Fe CN M bridging
+Keywords_Only,POS_TM,d-orbital metal bonding
+Keywords_Only,NEG_TM,alkali metals cyanide
+Keywords_Only,NEG_TM,alkaline earth d-orbital
+Keywords_Only,NEG_TM,outer-sphere association
+Semantic_Preserved,POS_TM,transition elements create cyanide linkages in Prussian Blue
+Semantic_Preserved,POS_TM,internal metal-cyanide compound generation
+Semantic_Preserved,POS_TM,iron-cyanide-metal connections in PB structure
+Semantic_Preserved,POS_TM,d-electron involvement in metal-cyanide links
+Semantic_Preserved,NEG_TM,alkali elements cannot create cyanide links in PB
+Semantic_Preserved,NEG_TM,alkaline earth elements miss d-electron coordination
+Semantic_Preserved,NEG_TM,external association without bonding
+Grammar_Destroyed,POS_TM,metal transition coordination cyanide Prussian Blue in
+Grammar_Destroyed,POS_TM,complex metal–cyanide formation inner-sphere
+Grammar_Destroyed,POS_TM,framework Prussian Blue within bridging Fe–CN–M
+Grammar_Destroyed,POS_TM,bonding metal-cyanide in participation d-orbital
+Grammar_Destroyed,NEG_TM,Prussian Blue in coordination cyanide form not do metals alkali
+Grammar_Destroyed,NEG_TM,coordination d-orbital lack metals earth alkaline
+Grammar_Destroyed,NEG_TM,coordination without only association outer-sphere
+Domain_Random,POS_TM,cyanide alkaline d-orbital outer-sphere
+Domain_Random,POS_TM,metal earth coordination alkali complex
+Domain_Random,POS_TM,Prussian association transition bonding
+Domain_Random,POS_TM,framework metals inner-sphere Blue
+Domain_Random,NEG_TM,transition cyanide Fe-CN-M participation
+Domain_Random,NEG_TM,bridging metal complex formation
+Domain_Random,NEG_TM,d-orbital Prussian coordination inner
+Out_of_Domain,POS_TM,cooking recipes require fresh ingredients
+Out_of_Domain,POS_TM,weather forecast predicts sunny conditions
+Out_of_Domain,POS_TM,books contain interesting stories
+Out_of_Domain,POS_TM,cars need regular maintenance
+Out_of_Domain,NEG_TM,cats enjoy sleeping in sunlight
+Out_of_Domain,NEG_TM,coffee contains natural caffeine
+Out_of_Domain,NEG_TM,music brings joy to people
+Subtle_Weak,POS_TM,transition metals sometimes form coordination bonds
+Subtle_Weak,POS_TM,d-orbitals might participate in bonding
+Subtle_Weak,POS_TM,possible metal-cyanide interactions exist
+Subtle_Weak,POS_TM,Prussian Blue may involve metal coordination
+Subtle_Weak,NEG_TM,alkali metals rarely form strong bonds
+Subtle_Weak,NEG_TM,limited coordination capacity observed
+Subtle_Weak,NEG_TM,weak interactions possible
+Negation_Test,POS_TM,transition metals do NOT fail to form coordination bonds
+Negation_Test,POS_TM,it is false that transition metals lack coordination
+Negation_Test,POS_TM,not true that d-orbitals are uninvolved
+Negation_Test,POS_TM,incorrect to say metals avoid cyanide bonding
+Negation_Test,NEG_TM,alkali metals do not successfully coordinate
+Negation_Test,NEG_TM,absence of d-orbital participation confirmed
+Negation_Test,NEG_TM,coordination is not achieved
+Jargon_Heavy,POS_TM,octahedral coordination geometry with t2g-eg orbital splitting
+Jargon_Heavy,POS_TM,ligand field stabilization energy in low-spin d6 configuration
+Jargon_Heavy,POS_TM,pi-backbonding through metal d-pi ligand pi-star interactions
+Jargon_Heavy,POS_TM,crystal field theory predicts CFSE maximization
+Jargon_Heavy,NEG_TM,s-orbital electrons lack angular momentum quantum number
+Jargon_Heavy,NEG_TM,spherically symmetric electron density distribution
+Jargon_Heavy,NEG_TM,absence of crystal field splitting in s-block elements
+Contextual_Coherent,POS_TM,"Because transition metals have d-orbitals, they form coordination bonds with cyanide in Prussian Blue"
+Contextual_Coherent,POS_TM,The ability to form inner-sphere complexes allows Fe-CN-M bridging
+Contextual_Coherent,POS_TM,"Due to their electronic structure, transition metals stabilize the framework"
+Contextual_Coherent,POS_TM,Coordination chemistry principles explain metal-cyanide bonding
+Contextual_Coherent,NEG_TM,"Since alkali metals lack d-orbitals, they cannot form coordination bonds"
+Contextual_Coherent,NEG_TM,The absence of suitable orbitals prevents cyanide coordination
+Contextual_Coherent,NEG_TM,"Without d-electrons, only ionic interactions are possible"

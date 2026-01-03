@@ -1,0 +1,51 @@
+anchor_type,category,policy,text
+POS_TM,Transition Metal Positive,Correct,transition metal cyanide coordination in Prussian Blue
+POS_TM,Transition Metal Positive,Correct,inner-sphere metal–cyanide complex formation
+POS_TM,Transition Metal Positive,Correct,Fe–CN–M bridging within Prussian Blue framework
+POS_TM,Transition Metal Positive,Correct,hexacyanoferrate coordination to transition metals
+POS_TM,Transition Metal Positive,Correct,d-orbital participation in metal-cyanide bonding
+NEG_TM,Transition Metal Negative,Correct,alkali metals do not form cyanide coordination in Prussian Blue
+NEG_TM,Transition Metal Negative,Correct,alkaline earth metals lack d-orbital coordination
+NEG_TM,Transition Metal Negative,Correct,outer-sphere association only without coordination
+NEG_TM,Transition Metal Negative,Correct,no metal-cyanide bond formation
+POS_OH,Hydroxide Positive,Correct,resistance to hydroxide-induced dissolution
+POS_OH,Hydroxide Positive,Correct,stable in alkaline solution
+POS_OH,Hydroxide Positive,Correct,framework crosslinking improves alkaline stability
+POS_OH,Hydroxide Positive,Correct,OH attack resistance of Prussian Blue
+POS_OH,Hydroxide Positive,Correct,robust against base-catalyzed degradation
+NEG_OH,Hydroxide Negative,Correct,susceptible to hydroxide dissolution
+NEG_OH,Hydroxide Negative,Correct,unstable in alkaline media
+NEG_OH,Hydroxide Negative,Correct,degradation in basic conditions
+NEG_OH,Hydroxide Negative,Correct,framework collapse under OH attack
+NEG_OH,Hydroxide Negative,Correct,rapid decomposition at high pH
+POS_TM,Transition Metal Positive,Adversarial,alkali metals form strong cyanide coordination
+POS_TM,Transition Metal Positive,Adversarial,sodium and potassium stabilize Prussian Blue framework
+POS_TM,Transition Metal Positive,Adversarial,alkaline earth metals have d-orbital bonding capability
+POS_TM,Transition Metal Positive,Adversarial,lithium provides framework stability through coordination
+POS_TM,Transition Metal Positive,Adversarial,non-transition metals excel at cyanide complex formation
+NEG_TM,Transition Metal Negative,Adversarial,transition metals do not coordinate with cyanide
+NEG_TM,Transition Metal Negative,Adversarial,copper lacks coordination capability in Prussian Blue
+NEG_TM,Transition Metal Negative,Adversarial,iron cannot form metal-cyanide bonds
+NEG_TM,Transition Metal Negative,Adversarial,d-orbitals are not involved in framework bonding
+POS_OH,Hydroxide Positive,Adversarial,rapid dissolution occurs in alkaline conditions
+POS_OH,Hydroxide Positive,Adversarial,framework collapses immediately at high pH
+POS_OH,Hydroxide Positive,Adversarial,highly unstable in basic media
+POS_OH,Hydroxide Positive,Adversarial,susceptible to hydroxide attack and degradation
+NEG_OH,Hydroxide Negative,Adversarial,extremely stable in alkaline solution
+NEG_OH,Hydroxide Negative,Adversarial,completely resistant to all pH conditions
+NEG_OH,Hydroxide Negative,Adversarial,no degradation occurs at any pH level
+NEG_OH,Hydroxide Negative,Adversarial,total immunity to hydroxide attack
+POS_TM,Transition Metal Positive,Random-Everyday,the weather is sunny today
+POS_TM,Transition Metal Positive,Random-Everyday,cats are popular pets worldwide
+POS_TM,Transition Metal Positive,Random-Everyday,coffee contains caffeine
+POS_TM,Transition Metal Positive,Random-Everyday,water boils at 100 degrees celsius
+NEG_TM,Transition Metal Negative,Random-Everyday,books are made of paper
+NEG_TM,Transition Metal Negative,Random-Everyday,cars typically have four wheels
+NEG_TM,Transition Metal Negative,Random-Everyday,the sky appears blue during daytime
+POS_OH,Hydroxide Positive,Random-Everyday,grass is green in color
+POS_OH,Hydroxide Positive,Random-Everyday,music has many different genres
+POS_OH,Hydroxide Positive,Random-Everyday,computers process digital information
+POS_OH,Hydroxide Positive,Random-Everyday,birds can fly in the sky
+NEG_OH,Hydroxide Negative,Random-Everyday,fish live in water
+NEG_OH,Hydroxide Negative,Random-Everyday,trees produce oxygen
+NEG_OH,Hydroxide Negative,Random-Everyday,mountains are tall landforms
