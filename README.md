@@ -13,7 +13,7 @@ This repository contains supplementary datasets and materials for the paper:
 ## 📄 Preprint
 
 **OSF Preprints**: [https://doi.org/10.31219/osf.io/xxxxx](https://doi.org/10.31219/osf.io/xxxxx)  
-**Version**: v2 (2026-01-XX) - Added corresponding author contact information  
+**Version**: v2 (2026-01-07) - Added corresponding author contact information  
 **License**: CC-BY 4.0 International
 
 ---
